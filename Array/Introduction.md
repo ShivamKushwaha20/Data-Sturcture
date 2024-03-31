@@ -5,7 +5,7 @@
 
 
 
-![Array](..\images/Array1.png)
+![Array](..\images\Array1.png)
 <br>**For Example:**<br>
  If we want to store the marks scored by a student in 5 subjects, then there’s no need to define individual variables for each subject. Rather, we can define an array that will store the data elements at contiguous memory locations.
 
@@ -27,4 +27,5 @@
 
 ## The Complexity of Array Operations:
 **Time Complexity**
+
 ![alt text|500](../images/Time_complexity.png)
